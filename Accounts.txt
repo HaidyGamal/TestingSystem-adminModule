@@ -1,0 +1,4 @@
+UserId:Username:HashedPassword:role:NoOfBugs:Name
+123:haidy:1234:tester:11:syntax
+144:merna:2222:developer:arithmatic:hu
+haidy:sdsd:[s, a, d, s, a, s]:sd:gamal:ddsfhaiidy:kjij:[1, 2, 3, 4, 5, 6]:gamaaal:158:hodaaaUserId:Username:[p, a, s, s, w, o, r, d]:Role:NoOfBugs:NameUserId:Username:[p, a, s, s, w, o, r, d]:Role:NoOfBugs:Namelkjlj:jb:[m]:klk:k:NameUserId:Username:[p, a, s, s, w, o, r, d]:Role:NoOfBugs:NameUserId:Username:[p, a, s, s, w, o, r, d]:Role:NoOfBugs:Namejj:Username:[p, a, s, s, w, o, r, d]:Role:NoOfBugs:Namehaidyyyyy:hnvnmv :[h, g, f, j]:2232:ytujtg:gmjh,k
